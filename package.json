@@ -1,0 +1,23 @@
+{
+  "name": "playwrightautomationproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreedarshan86/PlaywrightAutomationProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sreedarshan86/PlaywrightAutomationProject/issues"
+  },
+  "homepage": "https://github.com/sreedarshan86/PlaywrightAutomationProject#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
